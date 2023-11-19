@@ -20,7 +20,7 @@ La maquina donde lo realizamos fue en la de Camilo, la IP es la siguiente:
 
 ## Portfolios:
 
-- [Carmona Hernandez Ferran]()
+- [Carmona Hernandez Ferran](https://github.com/fcarmona8)
 
 - [Galindo Palacio Joan](https://github.com/galindojoan)
 
